@@ -19,7 +19,7 @@ search_field.click()
 search_field.clear()
 
 # enter search keyword and submit
-search_field.send_keys('phones')
+search_field.send_keys('glasses')
 driver.find_element_by_id("page-search-btn").click()
 
 # get all the anchor elements which have product names displayed

@@ -395,3 +395,29 @@ JavaScript error: https://magento.com/products/magento-open-source line 1938 > s
 1571283852997	Marionette	INFO	Stopped listening on port 53689
 1571287123396	Marionette	INFO	Stopped listening on port 51830
 1571287123521	Marionette	INFO	Stopped listening on port 51558
+1571291448035	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q1/lwh9btpn4s9_03jqy4zns9cw0000gn/T/rust_mozprofilemYHvKJ"
+1571291448494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571291448494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571291448495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571291448495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571291450009	Marionette	INFO	Listening on port 51947
+1571291450107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571291462241	Marionette	INFO	Stopped listening on port 51947
+1571291493141	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q1/lwh9btpn4s9_03jqy4zns9cw0000gn/T/rust_mozprofileFRD5xL"
+1571291493596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571291493596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571291493597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571291493597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571291495123	Marionette	INFO	Listening on port 52150
+1571291495201	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1831, MediaDecoderStateMachine #1] WARNING: Decoder=124f02800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 1831, MediaDecoderStateMachine #1] WARNING: Decoder=124f02800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+1571291518478	Marionette	INFO	Stopped listening on port 52150
+1571291777990	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q1/lwh9btpn4s9_03jqy4zns9cw0000gn/T/rust_mozprofile51v9I9"
+1571291778449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571291778450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571291778450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571291778450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571291779983	Marionette	INFO	Listening on port 52559
+1571291780052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571291791723	Marionette	INFO	Stopped listening on port 52559
