@@ -19,12 +19,11 @@ search_field.click()
 search_field.clear()
 
 # enter search keyword and submit
-search_field.send_keys('glasses')
+search_field.send_keys('phones')
 driver.find_element_by_id("page-search-btn").click()
 
 # get all the anchor elements which have product names displayed
 products = driver.find_elements_by_xpath("//ol[@class='search-results node-results']//h3")
-
 # # get the number of anchor elements found
 print("Found " + str(len(products)) + " products:")
 
