@@ -431,3 +431,11 @@ JavaScript error: https://magento.com/products/magento-open-source line 1938 > s
 [Child 2195, MediaDecoderStateMachine #1] WARNING: Decoder=12826a800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
 [Child 2195, MediaDecoderStateMachine #1] WARNING: Decoder=12826a800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
 1571293671036	Marionette	INFO	Stopped listening on port 55247
+1571969533102	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q1/lwh9btpn4s9_03jqy4zns9cw0000gn/T/rust_mozprofile5zgDV2"
+1571969533685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571969533686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571969533686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571969533686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571969535267	Marionette	INFO	Listening on port 50914
+1571969535360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571969549615	Marionette	INFO	Stopped listening on port 50914
